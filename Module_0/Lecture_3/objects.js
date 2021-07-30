@@ -5,7 +5,7 @@ let cap = {
     "lastName": "Rogers",
     
     friend : ["Bucky","tony","Black panther"],
-    age = 34,
+    age : 34,
     isAvenger : true,
     //methods
     sayHi: function(){
